@@ -1,4 +1,4 @@
-# LSB (Least Significant Bit) Steganography
+# Steganography LSB (Least Significant Bit)
 
 This project implements a basic steganography technique to hide secret messages inside images using the LSB (Least Significant Bit) method.
 
